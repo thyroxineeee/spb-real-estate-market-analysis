@@ -95,7 +95,7 @@
 ## Дашборд
 
 Ссылка на дашборд:  
-`добавить ссылку на DataLens`
+https://datalens.yandex/rtj2yj71jmomb
 
 Скриншот дашборда:
 
