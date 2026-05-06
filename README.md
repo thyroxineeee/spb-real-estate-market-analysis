@@ -92,15 +92,19 @@
 4. Для более дорогих и крупных объектов нужно закладывать более длительный срок экспозиции.
 5. При планировании стратегии агентству важно учитывать не только характеристики квартиры, но и сезон выхода объявления на рынок.
 
+
 ## Дашборд
 
 Ссылка на дашборд:  
 https://datalens.yandex/rtj2yj71jmomb
 
-Скриншот дашборда:
+Общий вид дашборда:
 
-![Dashboard preview](images/dashboard_preview.png)
+![Dashboard overview](images/dashboard_overview.png)
 
+Детализация рынка:
+
+![Dashboard details](images/dashboard_details.png)
 ## Структура проекта
 
 ```text
